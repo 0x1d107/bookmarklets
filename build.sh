@@ -19,7 +19,7 @@ Minfied:
 $LINK
 \`\`\`
 
-[Link]($LINK)
+Link: [$script]($LINK)
 EOF
 done
 lowdown README.md > index.html
