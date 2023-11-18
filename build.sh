@@ -23,3 +23,5 @@ $LINK
 EOF
 done
 lowdown README.md > index.html
+git add README.md
+git commit -m "Updated README file"
